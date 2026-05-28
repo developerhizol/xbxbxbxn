@@ -1,0 +1,4 @@
+tg://proxy?server=de1.lutolubs.icu&port=443&secret=ee4bbaa432c17380c4e67782ce1bb877ef6465312e6c75746f6c7562732e696375
+tg://proxy?server=www.tproxy.ink&port=443&secret=ee104462821249bd7ac519130220c25d09617669746f2e7275
+tg://proxy?server=proxygermany.vpnbyhizol.tech&port=444&secret=d31b30f9e0d6b6c85c42936d6c5930aa
+tg://proxy?server=proxynetherlands.vpnbyhizol.tech&port=443&secret=ee382fcab63096cc99a7b29ce968d82f18676f7375736c7567692e7275
