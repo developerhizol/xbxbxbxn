@@ -311,7 +311,7 @@ async def run_web_server_async():
     
     runner = web.AppRunner(app)
     await runner.setup()
-    site = web.TCPSite(runner, host='0.0.0.0', port=9273)
+    site = web.TCPSite(runner, host='0.0.0.0', port=0475)
     await site.start()
     print("[WEBHOOK] Web server started on port 9273")
     print("[WEBHOOK] Subscription endpoint: https://streamnetvpn.bothost.tech:9273/sub/{user_id}")
